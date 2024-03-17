@@ -1,0 +1,10 @@
+/runs
+/pathole-1
+/.conda
+/.ipynb_checkpoints
+Untitled.ipynb
+results.jpg
+result_temp.jpg
+.idea
+__pycache__
+best.pt
